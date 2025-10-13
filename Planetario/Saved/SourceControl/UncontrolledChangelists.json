@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/emili/Documents/Unreal Projects/Planetario/Content/Levels/PlanetLevel.umap",
+				"C:/Users/emili/Documents/Unreal Projects/Planetario/Content/Levels/Level2.umap",
+				"C:/Users/emili/Documents/Unreal Projects/Planetario/Content/Levels/PlanetLevel_BuiltData.uasset",
+				"C:/Users/emili/Documents/Unreal Projects/Planetario/Content/ThirdPerson/MI_ThirdPersonColWay.uasset",
+				"C:/Users/emili/Documents/Unreal Projects/Planetario/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
+				"C:/Users/emili/Documents/Unreal Projects/Planetario/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/emili/Documents/Unreal Projects/Planetario/Content/VRTemplate/Maps/_GENERATED/emili/CubeGridToolOutput_2AD83EF2.uasset",
+				"C:/Users/emili/Documents/Unreal Projects/Planetario/Content/VRTemplate/Maps/_GENERATED/emili/CubeGridToolOutput_7621117B.uasset",
+				"C:/Users/emili/Documents/Unreal Projects/Planetario/Content/VRTemplate/Maps/_GENERATED/emili/Sphere_F6A3BB65.uasset",
+				"C:/Users/emili/Documents/Unreal Projects/Planetario/Content/VRTemplate/Maps/_GENERATED/emili/Sphere_02C45B44.uasset",
+				"C:/Users/emili/Documents/Unreal Projects/Planetario/Content/VRTemplate/Maps/_GENERATED/emili/Sphere_A3F2F287.uasset",
+				"C:/Users/emili/Documents/Unreal Projects/Planetario/Content/VRTemplate/Maps/_GENERATED/emili/Sphere_F675FED1.uasset",
+				"C:/Users/emili/Documents/Unreal Projects/Planetario/Content/VRTemplate/Maps/_GENERATED/emili/Sphere_1A370DD2.uasset",
+				"C:/Users/emili/Documents/Unreal Projects/Planetario/Content/VRTemplate/Maps/_GENERATED/emili/Sphere_BA6FEDAA.uasset",
+				"C:/Users/emili/Documents/Unreal Projects/Planetario/Content/VRTemplate/Maps/_GENERATED/emili/Sphere_F69EC10B.uasset",
+				"C:/Users/emili/Documents/Unreal Projects/Planetario/Content/Meshes/Sphere_Brush_StaticMesh.uasset",
+				"C:/Users/emili/Documents/Unreal Projects/Planetario/Content/VRTemplate/Materials/M_LeftEyeGreen_RightEyeRed.uasset",
+				"C:/Users/emili/Documents/Unreal Projects/Planetario/Content/LevelPrototyping/Materials/M_FlatCol.uasset"
+			]
+		}
+	]
+}
